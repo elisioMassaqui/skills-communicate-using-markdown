@@ -7,8 +7,6 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
@@ -34,6 +32,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 - Sharing snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
 
 **What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ### Example
 
